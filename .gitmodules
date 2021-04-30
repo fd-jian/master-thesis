@@ -1,6 +1,6 @@
 [submodule "src/backend"]
 	path = src/backend
-	url = git@github.com:fd-jian/thesis-backend.git
+	url = ../thesis-backend.git
 [submodule "src/frontend"]
 	path = src/frontend
-	url = git@github.com:fd-jian/thesis-android-apps.git
+	url = ../thesis-android-apps.git
